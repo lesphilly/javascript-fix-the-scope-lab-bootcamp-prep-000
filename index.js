@@ -5,7 +5,6 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-var 'dog' = 'cat'
 return yourAnimal
 }
 
